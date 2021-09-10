@@ -1,0 +1,2 @@
+rootProject.name = "Custom Pattern"
+include ':app'
