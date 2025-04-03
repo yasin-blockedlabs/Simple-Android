@@ -1,4 +1,12 @@
 # Simple-Android
 
-Check out "CustomPattern" folder for Simple And Clean Android Architecture Pattern based on kotlin
-This Pattern help me to solve Mid-Sized Apps (20 to 30 Activities) in very easy way, and its looks also clean
+Simple and Clean Android Architecture
+
+Take a look at this clean Architecture for Android, it perfectly suits for your Mid Size Android Application ( 20 to 30 Activities)
+
+Simple Toast and Log with Debug
+Inbuild Progress Dialog
+Simple Activity Changer
+Retrofit Simple API functionality
+Simple Broadcast Functionality
+Take a Look, Thank You
